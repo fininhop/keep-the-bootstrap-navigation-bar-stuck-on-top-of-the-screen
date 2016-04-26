@@ -1,5 +1,5 @@
-# Maintain stuck the bootstrap navigation bar at the top of the screen
-If you're using bootstrap. This jQuery plugin, keeps the bootstrap navigation bar, sticked on the top of the screen, when it's scrolling.
+# Keep the bootstrap navigation bar stuck on top of the screen
+While using bootstrap, this jQuery plugin will kep the bootstrap navigation bar stuck on top of the screen while you are scrolling.
 
 ## Default scroll speed 500
 
